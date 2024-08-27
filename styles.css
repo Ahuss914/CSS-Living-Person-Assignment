@@ -1,0 +1,44 @@
+h1 {
+    font-family: "calibri", sans-serif;
+    color: chocolate;
+}
+
+h3 {
+    font-family: "Dancing Script";
+    color: rgb(68, 32, 6)
+
+}
+
+p {
+    color: cadetblue;
+}
+
+.p-green {
+    color: green;
+}
+
+.p-gold {
+    color: aqua;
+}
+
+#Alex-yt-link {
+    font-size: 60px;
+    color: red;
+    background-color: rgb(153, 148, 148);
+    padding: 10px;
+    border-width: 5px;
+    border-color: rgb(253, 12, 161);
+    border-style: inherit;
+    border-radius: 30px;
+
+} 
+
+#yt-logo {
+    width: 60px;
+    height: 60px;
+}
+
+li {
+    color: brown;
+}
+
